@@ -1,0 +1,7 @@
+textures/*
+json/*
+js/*
+
+!js/solar_system_orbits.js
+!js/solar_system_orbits_selectors.js
+!js/solar_system_orbits_utils.js
